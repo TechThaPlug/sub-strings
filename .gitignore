@@ -1,0 +1,23 @@
+
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/bundle/
+vendor/cache/
+vendor/gems/
+vendor/ruby/
+
+# Environment and secrets
+.env
+.env.*
+
+# Logs and temporary files
+*.log
+tmp/
+coverage/
+
+# Editor and operating system files
+.vscode/
+.DS_Store
+Thumbs.db
